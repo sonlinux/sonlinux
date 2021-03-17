@@ -5,6 +5,5 @@
 - 📫 How to reach me check my profile email address, could be the quickest in the meantime
 
 <!---
-sonlinux/sonlinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+sonlinux/sonlinux is a ✨ special ✨ repository hosting just a tiny bit of what to expect in my interests 😉
 --->
