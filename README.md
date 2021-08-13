@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @sonlinux
+- 👋  Hi, I’m Alison Mukoma | @sonlinux
 - 👀  I’m interested in all things data science, devops, infra, big data, backend, iot
 - 🌱  Currently I spend most of my time around cloud engineering and various SRE duties
 - 💞️  I’m looking to collaborate on anything open source and community positive impact projected
